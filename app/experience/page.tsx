@@ -14,7 +14,7 @@ export default function ExperiencePage() {
             Experience
           </h1>
           <p className="mt-6 max-w-prose text-lg text-text-onDarkSecondary">
-            Where I've worked, and what I've built along the way.
+            Where I&apos;ve worked, and what I&apos;ve built along the way.
           </p>
         </Container>
       </section>
